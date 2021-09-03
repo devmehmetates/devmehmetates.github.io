@@ -1,1 +1,0 @@
-# devmehmetates.github.io
