@@ -36,7 +36,7 @@
 .content:hover{
     -webkit-box-shadow: 0px 0px 50px 8px rgba(49, 24, 213, 0.25); 
     box-shadow: 0px 0px 50px 8px rgba(49, 24, 213, 0.25); 
-    transition: .3s;
+    transition: .5s !important;
 }
 
 .content h1{
