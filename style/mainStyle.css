@@ -30,12 +30,13 @@
     flex-direction: column;
     -webkit-box-shadow: 0px 0px 50px 8px rgba(0,0,0,0.15); 
     box-shadow: 0px 0px 50px 8px rgba(0,0,0,0.15);
+    border-radius: 5px;
 }
 
 .content:hover{
     -webkit-box-shadow: 0px 0px 50px 8px rgba(49, 24, 213, 0.25); 
     box-shadow: 0px 0px 50px 8px rgba(49, 24, 213, 0.25); 
-    transition:.3s;
+    transition: .3s;
 }
 
 .content h1{
@@ -72,14 +73,10 @@
     width: 100%;
     -webkit-box-shadow: 0px 0px 50px 8px rgba(0,0,0,0.15); 
     box-shadow: 0px 0px 50px 8px rgba(0,0,0,0.15);
+    border-radius: 5px;
     padding: 4%;
 }
 
-.contact:hover{
-    -webkit-box-shadow: 0px 0px 50px 8px rgba(213, 74, 24, 0.25); 
-    box-shadow: 0px 0px 50px 8px rgba(213, 74, 24, 0.25); 
-    transition:.3s;
-}
 
 .contact-info{
     display: flex;
