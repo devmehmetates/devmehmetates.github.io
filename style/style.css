@@ -85,7 +85,7 @@
     justify-content: center;
     text-align: center;
     width: 70%;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .name h1{
@@ -133,7 +133,7 @@
     padding-top: 5%;
     padding-left: 5%;
     padding-right: 5%;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .contact h1{
