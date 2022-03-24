@@ -11,6 +11,4 @@ function myFunction(color) {
     }else if(color == 5){
         element.style.color = "pink";
     }
-    
-   
 };
