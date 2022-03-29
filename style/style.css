@@ -10,7 +10,6 @@ table{
 }
 
 th, td {
-    border-bottom: 1px solid #ddd;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 10px;
@@ -18,8 +17,8 @@ th, td {
     font-size: small;
 }
 tr:hover {
-    -webkit-box-shadow: 0px 0px 20px 1px rgba(223, 117, 17, 0.562);  
-    box-shadow: 0px 0px 20px 1px rgba(223, 117, 17, 0.562);  
+    -webkit-box-shadow: 0px 0px 20px 1px rgba(12, 162, 216, 0.255);  
+    box-shadow: 0px 0px 20px 1px rgba(12, 162, 216, 0.255); 
     transition: .2s !important;
 }
 
